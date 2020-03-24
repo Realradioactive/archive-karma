@@ -2,9 +2,7 @@
 <p align="center">
     <img alt="karma" src="https://i.imgur.com/C3zISlU.gif"/>
     <p align="center">
-        <a href="https://github.com/Realradioactive/archive-karma.git"><img alt="Release" src="https://img.shields.io/github/tag/decoxviii/karma.svg"></a>
-        
-    </p>
+       Archive of karma program
 </p>
 
 ---
