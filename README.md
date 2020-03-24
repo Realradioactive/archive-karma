@@ -2,8 +2,8 @@
 <p align="center">
     <img alt="karma" src="https://i.imgur.com/C3zISlU.gif"/>
     <p align="center">
-        <a href="https://github.com/decoxviii/karma/releases/latest"><img alt="Release" src="https://img.shields.io/github/tag/decoxviii/karma.svg"></a>
-        <a href="https://twitter.com/decoxviii"><img alt="twitter" src="https://img.shields.io/badge/twitter-@decoxviii-blue.svg"></a>
+        <a href="https://github.com/Realradioactive/archive-karma.git"><img alt="Release" src="https://img.shields.io/github/tag/decoxviii/karma.svg"></a>
+        
     </p>
 </p>
 
@@ -24,7 +24,7 @@ sudo apt install tor python3 python3-pip
 
 Install with `pip3`:
 ```
-sudo -H pip3 install git+https://github.com/decoxviii/karma.git
+sudo -H pip3 install git+https://github.com/Realradioactive/archive-karma.git
 karma --help
 ```
 
@@ -34,7 +34,7 @@ karma --help
 
 Clone this repository, and:
 ```
-git clone https://github.com/decoxviii/karma.git ; cd karma
+git clone https://github.com/Realradioactive/archive-karma.git ; cd karma
 sudo -H pip3 install -r requirements.txt
 python3 setup.py build
 sudo python3 setup.py install
@@ -46,7 +46,7 @@ sudo python3 setup.py install
 
 To update this tool to the latest version, run:
 ```
-sudo -H pip3 install git+https://github.com/decoxviii/karma.git --upgrade
+sudo -H pip3 install git+https://github.com/Realradioactive/archive-karma.git --upgrade
 karma --version
 ```
 
@@ -87,11 +87,7 @@ Usage this program for attacking targets without prior consent is illegal. It's 
 #### Thanks
 
 This program is inspired by the projects:
++ by decoxviii
 + [pwndb_api](https://github.com/M3l0nPan/pwndb_api) by: M3l0nPan
 + [pwndb](https://github.com/davidtavarez/pwndb)     by: davidtavarez
 
----
-
-**decoxviii**
-
-**[MIT](https://github.com/decoxviii/karma/blob/master/LICENSE)**
