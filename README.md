@@ -3,6 +3,7 @@
     <img alt="karma" src="https://i.imgur.com/C3zISlU.gif"/>
     <p align="center">
        Archive of karma program
+        Karma Programının arşividir.
 </p>
 
 ---
